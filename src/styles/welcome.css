@@ -1,0 +1,14 @@
+.WelView{
+    position: absolute;
+    top: 15%;
+    padding: 3rem;
+    text-align: center;
+    width: 100%;
+    color: aliceblue;
+    height: 35%;
+}
+
+h1{
+    margin-bottom: 3rem;
+    text-transform: uppercase;
+}
